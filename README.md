@@ -2,7 +2,7 @@ ECS140_Lisp
 ===========
 
 First time writing in LISP. 
-===========
+-----
 the file that we write. the output matches depending on what size the window is. need to be the default putty/unix size. 
 ONLY supposed to use PURE LISP functions, except for some of them. Not allowed to use SETQ... etc.
 
@@ -17,3 +17,4 @@ functions include:
 
 double-recursive, double-iterative, and double-mapcar should output the same things. 
 -----------
+Will upload after deadline. 11/20/2014.
