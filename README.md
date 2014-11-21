@@ -18,3 +18,5 @@ functions include:
 double-recursive, double-iterative, and double-mapcar should output the same things. 
 -----------
 Will upload after deadline. 11/20/2014.
+------------
+written by Helen Chac
