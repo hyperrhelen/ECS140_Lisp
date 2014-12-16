@@ -16,7 +16,6 @@ functions include:
 - check(x) - we check the output of our rewrite function and the output of the real values of the function given.
 
 double-recursive, double-iterative, and double-mapcar should output the same things. 
------------
-Will upload after deadline. 11/20/2014.
+
 ------------
 written by Helen Chac
